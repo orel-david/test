@@ -1,0 +1,14 @@
+
+\.idea/
+
+*.properties
+
+\.gradle/buildOutputCleanup/
+
+\.gradle/4\.10\.3/fileHashes/
+
+\.gradle/4\.10\.3/taskHistory/
+
+\.gradle/4\.10\.3/fileChanges/
+
+*.jar
